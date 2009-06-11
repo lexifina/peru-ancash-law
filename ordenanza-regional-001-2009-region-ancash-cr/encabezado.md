@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 001-2009-REGIÓN ANCASH/CR.
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+El Consejo de Coordinación Regional forma parte de la estructura básica del Gobierno Regional y constituye un órgano consultivo y de coordinación entre la autoridad regional, las municipalidades y representantes de la sociedad civil; conforme estipula el artículo 191º de la Constitución Política del Perú y el artículo 20º de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales;
+El Consejo de Coordinación Regional se encuentra constituido por la totalidad de alcaldes provinciales del ámbito regional y los representantes de las organizaciones de la sociedad civil, quienes son elegidos mediante proceso electoral entre los representantes de las organizaciones inscritas en el Registro de Organizaciones Civiles que se apertura para cada proceso, de acuerdo con el reglamento de elecciones;
+Conforme a la Ley Nº 28013, la elección de los representantes de la sociedad civil debe realizarse en los primeros sesenta días naturales, correspondiéndole al presente año llevar a cabo la elección de los mencionados representantes e instalar el Consejo de Coordinación Regional para el Periodo 2009-2010;
+Para la implementación del proceso de elección de los representantes de la sociedad civil, se hace necesario modificar el Reglamento de Elecciones estableciendo los mecanismos mediante los cuales se incluya la representatividad de los alcaldes distritales en calidad de supernumerarios y se amplié el número de representaciones de las organizaciones de la sociedad civil ante el Consejo de Coordinación Regional;
+En uso de las atribuciones establecidas en la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nºs. 27902, 28961, 28968 y 29053; y, de conformidad con el Dictamen Nº 002- 2009 –GRA/CR/ CPPAT. de la Comisión de Planeamiento, Presupuesto y Acondicionamiento Territorial; y estando a lo acordado por unanimidad en la sesión ordinaria llevada a cabo el día 05 del mes de febrero del año dos mil nueve;
+ORDENA:
