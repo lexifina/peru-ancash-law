@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 015-2009-REGIÓN ANCASH/CR
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que el Consejo Regional es el máximo órgano del Gobierno Regional de Ancash, en el ejercicio de sus funciones ejerce su función normativa, a través de la aprobación de ordenanzas y acuerdos regionales, de acuerdo a lo establecido en el artículo 191º de la Constitución Política del Estado, concordante con la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y su modificatoria Ley Nº 27902;
+El manejo y la gestión de cuencas en el Perú está relacionado con la administración del agua, desde las épocas pre-incaicas donde las actividades eran predominantemente agropecuarias hasta la época Colonial y Republicana, donde se hizo un gran cambio en el uso y manejo de los recursos naturales y pasó a ser predominantemente minero;
+El artículo 53º incisos a) y b) de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, modificado por las Leyes Nºs. 27902, 28961, 28968 y 29053, establecen que los Gobiernos Regionales tienen como función: “Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar los planes y políticas en materia ambiental y de ordenamiento territorial, en concordancia con los planes de los Gobiernos Locales” e “Implementar el sistema regional de gestión ambiental, en coordinación con las comisiones ambientales regionales” respectivamente;
+Que, en base a su identificación con el proceso de transformación de las actividades económicas con uso de tecnologías limpias y considerando que nuestra Región Ancash, es uno de los territorios con grandes potencialidades de suelos con diversidad de aptitudes, es política de este gobierno proteger nuestro medio ambiente y por ende nuestros recursos naturales como es la Cuenca del Río Casma;
+En uso de las atribuciones establecidas en la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nos. 27902, 28961, 28968 y 29053; y estando a lo acordado por mayoría en la sesión ordinaria llevada a cabo el día 04 del mes de junio del año dos mil nueve;
+ORDENA:
