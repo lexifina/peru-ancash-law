@@ -1,0 +1,11 @@
+ORDENANZA REGIONAL
+Nº 019-2009-REGIÓN ANCASH/CR.
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO :
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y la administración del Gobierno Regional reglamentado las materias de su competencia, conforme se establece en el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de los Gobiernos Regionales, modificada por la Ley Nº 27902, que señala, que es atribución del Consejo Regional la de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, mediante Ordenanza Regional Nº 005-2006-REGION ANCASH/CR, de fecha 8 de marzo del 2006, el Consejo Regional de Ancash, aprobó el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo de Ancash;
+Que, mediante Oficio Directoral Nº 0453-2009-REGION ANCASH – DRTyPE/OTA, la Dirección Regional de Trabajo y Promoción del Empleo, presenta al Consejo Regional del Gobierno Regional de Ancash la propuesta de modificación de su Cuadro para Asignación de Personal-CAP, el mismo que hace suyo la propuesta del Proyecto de Ordenanza el Consejero Regional Rafael Yuri Pérez Reyes;
+Que, mediante Decreto Supremo Nº 043-2004-PCM, se aprueba los lineamientos para la Elaboración y Aprobación del Cuadro para Asignación de Personal – CAP de las Entidades de la Administración Pública, estableciendo los criterios básicos para la elaboración de este documento;
+Que, mediante Informe Nº 018-2009-REGION ANCASH/GRPPAT/SGDI-IN.018 de fecha 30 de Abril del presente año, la Sub Gerencia de Desarrollo Institucional del Gobierno Regional de Ancash, luego del proceso de revisión del referido documento de gestión y encontrándola conforme a los alcances del Decreto Supremo Nº 043-2004-PCM, otorga opinión favorable para la aprobación del Cuadro para Asignación de Personal – CAP de la Dirección Regional de Trabajo y Promoción del Empleo de Ancash;
+En uso de las atribuciones establecidas en la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nos. 27902, 28961, 28968 y 29053; y estando a lo acordado por mayoría en la sesión ordinaria llevada a cabo el día 13 del mes de julio del año dos mil nueve;
+ORDENA:
