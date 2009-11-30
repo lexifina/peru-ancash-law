@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 020-2009-REGIÓN ANCASH/CR
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO :
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y la administración del Gobierno Regional reglamentado las materias de su competencia, conforme se establece en el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de los Gobiernos Regionales, modificada por la Ley Nº 27902, que señala, que es atribución del Consejo Regional la de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, mediante Oficio Nº 1835-2008-ME-RA/DRE-DGI-D-ERII, la Dirección Regional de Educación de Ancash, presenta a la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial del Gobierno Regional de Ancash la propuesta de aprobación de su Cuadro para Asignación de Personal-CAP;
+Que, mediante Decreto Supremo Nº 043-2004-PCM, se aprueba los lineamientos para la elaboración y aprobación del Cuadro para Asignación de Personal – CAP de las Entidades de la Administración Pública, estableciendo los criterios básicos para la elaboración de este documento;
+Que, mediante Informe Nº 044-2008-REGION ANCASH/GRPPAT/SGDI-IN.044.TE de fecha 30 de junio del presente año, la Sub Gerencia de Desarrollo Institucional, luego del proceso de revisión del referido documento de gestión y encontrándola conforme a los alcances del Decreto Supremo Nº 043-2004-PCM, otorga opinión favorable para la aprobación del Cuadro para Asignación de Personal – CAP de la Dirección Regional de Educación de Ancash;
+En uso de las atribuciones establecidas en la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nos. 27902, 28961, 28968 y 29053; y, de conformidad con el Dictamen Nº 003- 2009 –GRA/ CR/CPPAT, de la Comisión de Planeamiento, Presupuesto y Acondicionamiento Territorial; y estando a lo acordado por mayoría en la sesión ordinaria llevada a cabo el día seis del mes de agosto del año dos mil nueve;
+ORDENA:
