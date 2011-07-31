@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 002-2011-REGION ANCASH/CR
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+El Consejo de Coordinación Regional forma parte de la estructura básica del Gobierno Regional y constituye un órgano consultivo y de Coordinación entre la autoridad regional, las municipalidades y representantes de la sociedad civil, conforme estipula el artículo 191º y 192º de la Constitución Política del Perú y el Artículo 20º de la Ley Nº 27902 que modifica la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales.
+El Consejo de Coordinación Regional se encuentra constituido por la totalidad de alcaldes provinciales del ámbito regional y los representantes de las organizaciones de la sociedad civil, quienes son elegidos mediante proceso electoral entre los representantes de las organizaciones inscritas en el Registro de Organizaciones Civiles que se apertura para cada proceso, de acuerdo con el reglamento de elecciones.
+Conforme a la Ley Nº 28013, la elección de los representantes de la sociedad civil debe realizarse en los primeros sesenta días naturales, correspondiéndole al presente año llevar a cabo la elección de los mencionados representantes e instalar el Consejo de Coordinación Regional para el Período 2011-2012.
+Para la implementación del proceso de elección de los representantes de la sociedad civil, se hace necesario modificar el Reglamento de Elecciones estableciendo los mecanismos mediante los cuales se incluya la representatividad de los alcaldes distritales en calidad de supernumerarios y se amplíe el número de representaciones de las organizaciones de la sociedad civil ante el Consejo de Coordinación Regional.
+En uso de las atribuciones establecidas en la Ley Nº 27867 - Ley Orgánica de los Gobiernos Regionales, modificada por la Ley Nº 27902, Ley Nº 28013; y demás normas legales complementarias vigentes y estando a lo acordado por unanimidad en la sesión llevada a cabo el día 25 de febrero del año 2011.
+ORDENA:
