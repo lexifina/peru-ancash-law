@@ -1,0 +1,12 @@
+ORDENANZA REGIONAL
+Nº 019-2011-REGION ANCASH/CR
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y la administración del Gobierno Regional reglamentando las materias de su competencia, conforme se establece en el literal a) del Artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, modificada por la Ley Nº 27902, señala, que es atribución del Consejo Regional la de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, mediante Ordenanza Regional Nº 010-2011-REGION ANCASH/CR de fecha 21 de junio del 2011, se aprueba el Reglamento de Organización y Funciones del Gobierno Regional, modificándose sustancialmente las funciones y estructura orgánica, haciendo indispensable la modificación de los demás documentos de gestión de la Entidad;
+Que, mediante Ordenanza Regional Nº 013-2006-REGION ANCASH/CR, de fecha 24 de agosto del 2006, se aprueba el Cuadro para Asignación de Personal (CAP) del Gobierno Regional , siendo necesaria su actualización a mérito de los alcances del Reglamento de Organización y Funciones aprobado por Ordenanza Regional que se hace referencia en el considerando anterior;
+Que, mediante Decreto Suprema Nº 043-2004-PCM, se aprueban los Lineamientos para la Elaboración y Aprobación del Cuadro para Asignación de Personal – CAP de las Entidades de la Administración Pública, estableciendo los criterios básicos para la elaboración de este documento;
+Que, mediante Informe Nº 71-2011-REGION ANCASH/ GRPPAT/SGDI-IN.71 de fecha 30 de setiembre del presente año, la Sub Gerencia de Desarrollo Institucional, luego del proceso de revisión del referido documento de gestión y encontrándola conforme a los alcances del Decreto Supremo Nº 043-2004-PCM, otorga opinión favorable para la aprobación del Cuadro para Asignación de Personal – CAP del Gobierno Regional de Ancash; y
+Que, habiendo sustentado el Presidente de la Comisión de Planeamiento, Presupuesto y Acondicionamiento Territorial, el Dictamen Nº 014-2011-GRA/CR/CPPAT.
+En uso de las atribuciones establecidas en la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nºs 27902, 28961, 28968 y 29053 y demás normas pertinentes; y estando a lo acordado por Unanimidad en Sesión Ordinaria llevada a cabo el día 15 de diciembre del año dos mil once.
+ORDENA:
