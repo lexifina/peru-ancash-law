@@ -1,0 +1,12 @@
+Ordenanza Regional
+Nº 022-2011-REGIÓN ANCASH/CR.
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y la administración del Gobierno Regional reglamentando las materias de su competencia, conforme se establece en el literal a) del Artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, modificada por la Ley Nº 27902, señala que es atribución del Consejo Regional la de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materiales de competencia y funciones del Gobierno Regional;
+Que, mediante Ordenanza Regional N° 018-2011-REGIÓN ANCASH, el Consejo Regional aprobó el Reglamento de Organización y Funciones de la Dirección Regional del Gobierno Regional de Ancash.
+Que, mediante Oficio N° 0471-2011-REGIÓN ANCASH/ DRTC, la Dirección Regional de Transportes y Comunicaciones de Ancash, remite a la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial del Gobierno Regional de Ancash la propuesta de modificación de su Cuadro para Asignación de Personal – CAP;
+Que, mediante Decreto Supremo N° 043-2001-PCM, se aprueban los lineamientos para la Elaboración y Aprobación del Cuadro para Asignación de Personal – CAP de las Entidades de la Administración Pública, establecido los criterios básicos para la elaboración de este documento;
+Que, mediante Informe N° 070-2011-REGIÓN ANCASH/GRPPAT/SGDI-IN.70 de fecha 30 de Setiembre del presente año, la Sub Gerencia de Desarrollo Institucional, luego del proceso de revisión efectuado al referido documento de gestión encontrándola conforme a los alcances del Decreto Supremo N° 043-2004- P C M , otorga opinión favorable para la aprobación del Cuadro para Asignación de Personal – CAP de la Dirección Regional de Transportes y Comunicaciones del Gobierno Regional de Ancash;
+Que, habiendo sustentado el Presidente de la Comisión de Planeamiento, Presupuesto y Acondicionamiento Territorial el Dictamen Nº 017-2011-GRA/CR/CPPAT,
+En uso de las atribuciones establecidas en la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nros. 27902, 28961, 28968 y 29053 y demás normas pertinentes; y estando a lo acordado por Unanimidad en Sesión Ordinaria llevada a cabo el día 15 de Diciembre del año dos mil once, con la dispensa y lectura y exoneración de la aprobación del acta.
+ORDENA:
