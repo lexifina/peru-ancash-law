@@ -1,0 +1,16 @@
+Ordenanza Regional
+Nº 004-2012-GRA/CR
+Huaraz, 10 de mayo del 2012.
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Ancash, de conformidad con lo previsto en la Constitución Política del Estado Peruano, Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, sus modificatorias; y demás Normas Complementarias.
+CONSIDERANDO:
+Que, los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia, conforme al Artículo 191º de la Constitución Política modificado por Ley Nº 27680 – Ley de Reforma Constitucional, del Capítulo XIV del Título IV, sobre Descentralización, concordante con el Artículo 31º de la Ley Nº 27783 – Ley de Bases de la Descentralización y con el Artículo 2º de la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, modificada mediante Ley Nº 27902;
+Que, los Artículos 188º y 192º de la Ley Nº 27680 – Ley de Reforma Constitucional, Capítulo XIV del Título IV, sobre Descentralización, establecen que el objetivo fundamental de la Descentralización como forma de organización democrática y de política permanente del Estado, es el desarrollo integral del país; debiendo los Gobiernos Regionales asumir competencias para promover el desarrollo social, político y económico en el ámbito regional;
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y administración del Gobierno Regional reglamentando las materias de su competencia conforme se establece en el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, modificada por la Ley Nº 27902, establece que es atribución del Consejo Regional la de aprobar, modificar o derogar normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+En Sesión Ordinaria de Consejo Regional, realizada en la ciudad de Huaraz, el día 10 de Mayo del 2012, visto el Oficio Nº 001-2012-GRA/CPPAT, instrumento mediante el cual se remite el Dictamen Nº 001-2012-GRA/CPPAT sobre Proyecto de Ordenanza Regional referido a Ampliar la Vigencia del Plan Estratégico Institucional 2008 – 2011 del Gobierno Regional de Ancash;
+Que, mediante debate y acto de sustentación por parte del Presidente de la Comisión de Planificación, Presupuesto y Acondicionamiento Territorial, Consejero Regional Ing. Jorge Patrocinio Trevejo Méndez respecto de la propuesta de la ampliación de la vigencia del Plan Estratégico Institucional 2008 – 2011;
+Que, el artículo 38º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+El Consejo Regional de Ancash en uso de las atribuciones establecidas en la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nros. 27902, 28961, 28968 y 29053 y demás normas pertinentes; y estando a lo acordado por Unanimidad en Sesión Ordinaria, de fecha 10 de Mayo del año dos mil doce y con la dispensa del trámite de la aprobación del acta; el Consejo Regional ha aprobado la siguiente:
+“ORDENANZA QUE APRUEBA AMPLIAR
+LA VIGENCIA DEL PLAN ESTRATÉGICO
+INSTITUCIONAL 2008 – 2011”
