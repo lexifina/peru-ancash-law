@@ -1,0 +1,9 @@
+Ordenanza Regional
+Nº 003-2012-REGIÓN-ANCASH/CR
+El Consejo Regional del Gobierno Regional de Ancash, ha aprobado la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el Consejo Regional tiene la atribución de normar asuntos de carácter general, la organización y administración del Gobierno Regional reglamentando las materias de su competencia conforme se establece en el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, modificada por la Ley Nº 27902, establece que es atribución del Consejo Regional la de aprobar, modificar o derogar normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, presentó el Proyecto de Reglamento de Audiencia Pública del Gobierno Regional de Ancash, para su aprobación correspondiente, garantizando una efectiva participación ciudadana, democrática y responsable, en la consulta, concertación, control, evaluación y rendición de cuentas del Gobierno Regional, a través de Audiencias Públicas Regionales, las que permitirán fortalecer el vínculo de representación de las autoridades elegidas.
+Que, visto el Oficio Nº 1346-2011-REGIÓN ANCASH/GRPPAT-SGDI, la Sub Gerencia de Desarrollo Institucional, luego del proceso de revisión del referido documento de gestión encontrándola conforme otorga opinión favorable para la aprobación del Reglamento de Audiencia Pública Regional del Gobierno Regional de Ancash:
+En uso de las atribuciones establecidas en la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nros. 27902, 28961, 28968 y 29053 y demás normas pertinentes; y estando a lo acordado por Mayoría en Sesión Ordinaria llevada a cabo el día 13 de Enero del año dos mil doce.
+ORDENA:
