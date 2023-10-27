@@ -1,0 +1,2 @@
+Artículo Primero.- CREACIÓN Y FINALIDAD.
+Créase la COMISIÓN REGIONAL ANTICORRUPCIÓN DE ANCASH (CRA-A), la que se constituye en un espacio de articulación para la implementación de la política en materia de integridad y lucha contra la corrupción en el ámbito de su jurisdicción, coordinando para tal efecto con la Comisión de Alto Nivel Anticorrupción y la Secretaría de Integridad Pública de la Presidencia del Consejo de Ministros. La Comisión Regional Anticorrupción de Ancash es de naturaleza permanente y está adscrita al Gobierno Regional de Ancash.
