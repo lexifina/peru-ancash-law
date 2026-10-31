@@ -1,0 +1,133 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2021-gra-cr",
+    "ordenanza-regional-001-2022-gra-cr",
+    "ordenanza-regional-001-2024-gra-cr",
+    "ordenanza-regional-002-2020-gra-cr",
+    "ordenanza-regional-002-2023-gra-cr",
+    "ordenanza-regional-003-2020-gra-cr",
+    "ordenanza-regional-003-2022-gra-cr",
+    "ordenanza-regional-003-2023-gra-cr",
+    "ordenanza-regional-003-2025-gra-cr",
+    "ordenanza-regional-004-2023-gra-cr",
+    "ordenanza-regional-004-2024-gra-cr",
+    "ordenanza-regional-004-2025-gra-cr",
+    "ordenanza-regional-005-2021-gra-cr",
+    "ordenanza-regional-005-2022-gra-cr",
+    "ordenanza-regional-005-2023-gra-cr",
+    "ordenanza-regional-005-2024-gra-cr",
+    "ordenanza-regional-005-2025-gra-cr",
+    "ordenanza-regional-006-2022-gra-cr",
+    "ordenanza-regional-006-2023-gra-cr",
+    "ordenanza-regional-006-2024-gra-cr",
+    "ordenanza-regional-006-2025-gra-cr",
+    "ordenanza-regional-007-2022-gra-cr",
+    "ordenanza-regional-007-2023-gra-cr",
+    "ordenanza-regional-008-2021-gra-cr",
+    "ordenanza-regional-008-2023-gra-cr",
+    "ordenanza-regional-009-2021-gra-cr",
+    "ordenanza-regional-009-2022-gra-cr",
+    "ordenanza-regional-009-2024-gra-cr",
+    "ordenanza-regional-010-2022-gra-cr",
+    "ordenanza-regional-010-2024-gra-cr",
+    "ordenanza-regional-011-2022-gra-cr",
+    "ordenanza-regional-011-2024-gra-cr",
+    "ordenanza-regional-012-2023-gra-cr",
+    "ordenanza-regional-05-gra-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "fe32ebebb8307623e52372fa2f87ea15c97d1df0027fef86da683c08c69909d2"
+  },
+  "30-ordenanzas-02.json": {
+   "acts": [
+    "ordenanza-regional-001-2015-gra-cr",
+    "ordenanza-regional-001-2016-gra-cr",
+    "ordenanza-regional-001-2018-gra-cr",
+    "ordenanza-regional-001-2019-gra-cr",
+    "ordenanza-regional-002-2015-gra-cr",
+    "ordenanza-regional-002-2019-gra-cr",
+    "ordenanza-regional-003-2015-gra-cr",
+    "ordenanza-regional-003-2016-gra-cr",
+    "ordenanza-regional-004-2015-gra-cr",
+    "ordenanza-regional-004-2016-gra-cr",
+    "ordenanza-regional-004-2017-gra-cr",
+    "ordenanza-regional-004-2018-gra-cr",
+    "ordenanza-regional-004-2019-gra-cr",
+    "ordenanza-regional-004-2021-gra-cr",
+    "ordenanza-regional-005-2015-gra-cr",
+    "ordenanza-regional-005-2018-gra-cr",
+    "ordenanza-regional-005-2019-gra-cr",
+    "ordenanza-regional-006-2015-gra-cr",
+    "ordenanza-regional-006-2017-gra-cr",
+    "ordenanza-regional-006-2018-gra-cr",
+    "ordenanza-regional-007-2015-gra-cr",
+    "ordenanza-regional-007-2017-gra-cr",
+    "ordenanza-regional-007-2018-gra-cr",
+    "ordenanza-regional-008-2016-gra-cr",
+    "ordenanza-regional-008-2017-gra-cr",
+    "ordenanza-regional-008-2018-gra-cr",
+    "ordenanza-regional-008-2019-gra-cr",
+    "ordenanza-regional-009-2015-gra-cr",
+    "ordenanza-regional-009-2016-gra-cr",
+    "ordenanza-regional-009-2018-gra-cr",
+    "ordenanza-regional-012-2016-gra-cr",
+    "ordenanza-regional-012-2019-gra-cr",
+    "ordenanza-regional-013-2018-gra-cr",
+    "ordenanza-regional-013-2019-gra-cr",
+    "ordenanza-regional-014-2019-gra-cr"
+   ],
+   "sha256": "4796a731e7a39df505b7a25735cd8c443a3673a4cedbd6b79e42021ff4871ac2"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-002-2022-gra-cr",
+    "ordenanza-regional-007-2024-gra-cr",
+    "ordenanza-regional-007-2025-gra-cr",
+    "ordenanza-regional-011-2023-gra-cr",
+    "ordenanza-regional-011-2025-gra-cr"
+   ],
+   "sha256": "b47f7e77a0228b78e4b74a1a2372257b6dd7ae4af92149280cea75d7de41a579"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2009-region-ancash-cr",
+    "ordenanza-regional-002-2009-region-ancash-cr",
+    "ordenanza-regional-003-region-ancash-cr",
+    "ordenanza-regional-007-2009-region-ancash-cr",
+    "ordenanza-regional-009-2009-region-ancash-cr",
+    "ordenanza-regional-010-2011-region-ancash-cr",
+    "ordenanza-regional-015-2011-region-ancash-cr",
+    "ordenanza-regional-024-2006-region-ancash-cr"
+   ],
+   "sha256": "a11c1817abc287b4cad395f3c5d56b1e4ed7bb481ba35c6cb025127f4b63e1de"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-002-2010-region-ancash-cr",
+    "ordenanza-regional-004-2012-gra-cr",
+    "ordenanza-regional-012-2009-region-ancash-cr",
+    "ordenanza-regional-013-2009-region-ancash-cr",
+    "ordenanza-regional-017-2009-region-ancash-cr",
+    "ordenanza-regional-019-2009-region-ancash-cr",
+    "ordenanza-regional-019-2011-region-ancash-cr",
+    "ordenanza-regional-022-2011-region-ancash-cr",
+    "ordenanza-regional-025-2009-region-ancash-cr",
+    "ordenanza-regional-031-2009-region-ancash-cr",
+    "ordenanza-regional-06-2010-region-ancash-cr"
+   ],
+   "sha256": "2facb0e05d7a77468e6d6467025d67539f0f1a83edf7056691a9869ac2811eeb"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-004-2013-gra-cr",
+    "ordenanza-regional-005-2013-gra-cr",
+    "ordenanza-regional-006-2013-gra-cr",
+    "ordenanza-regional-011-2013-gra-cr"
+   ],
+   "sha256": "43b92c31e7a85eb50d4ab92683a70425b5afc8709390fd4d13e3b620935cc221"
+  }
+ },
+ "schema": 1
+}
