@@ -1,0 +1,11 @@
+{
+  "path": "pe-anc",
+  "code": "PE-ANC",
+  "name": "Áncash",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-ancash-law",
+  "build": "built: 98 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
