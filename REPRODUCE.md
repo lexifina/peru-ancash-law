@@ -112,20 +112,59 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-011-2013-gra-cr` | Ordenanza Regional N° 011-2013-GRA/CR: Aprueban actualización del Plan Vial Departamental Participativo Ancash 2013 - 2017 | 1 | 2013-06-23 to 2013-06-23 |
 | `ordenanza-regional-006-2013-gra-cr` | Ordenanza Regional N° 006-2013-GRA/CR: Aprueban Reglamento para el Proceso de Presupuesto Participativo para el Ejercicio Fiscal 2014 del Gobierno Regional de Ancash | 1 | 2013-05-12 to 2013-05-12 |
 | `ordenanza-regional-004-2013-gra-cr` | Ordenanza Regional N° 004-2013-GRA/CR: Aprueban Cuadro para Asignación de Personal - CAP de la Dirección Regional Agraria de Ancash | 1 | 2013-04-19 to 2013-04-19 |
+| `ordenanza-regional-001-2020-gra-cr` | Ordenanza Regional N° 001-2020-GRA/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Ancash | 1 | 2020-04-13 to 2020-04-13 |
+| `ordenanza-regional-010-2019-gra-cr` | Ordenanza Regional N° 010-2019-GRA/CR: Crean el Consejo Regional por los Derechos de las Niñas, Niños y Adolescentes de la Región Áncash | 1 | 2019-12-13 to 2019-12-13 |
+| `ordenanza-regional-011-2019-gra-cr` | Ordenanza Regional N° 011-2019-GRA/CR: Aprueban el “Plan Regional de Integridad y Lucha Contra la Corrupción 2019 - 2021“ | 1 | 2019-11-30 to 2019-11-30 |
+| `ordenanza-regional-007-2019-gra-cr` | Ordenanza Regional N° 007-2019-GRA/CR: Aprueban el Plan Regional de Acción contra Trata de Personas y Tráfico Ilícito de Migrantes de la Región Ancash 2019 - 2022 | 1 | 2019-11-23 to 2019-11-23 |
+| `ordenanza-regional-003-2019-gra-cr` | Ordenanza Regional N° 003-2019-GRA/CR: Ratifican el Plan Regional de Seguridad Ciudadana - 2019 | 1 | 2019-10-02 to 2019-10-02 |
+| `ordenanza-regional-010-2018-gra-cr` | Ordenanza Regional N° 010-2018-GRA/CR: Crean el Consejo Regional de Concertación Agraria para la Reactivación y el Desarrollo del Sector Agrario de la Región Áncash, CORECA - Áncash | 1 | 2019-01-05 to 2019-01-05 |
+| `ordenanza-regional-002-2018-gra-cr` | Ordenanza Regional N° 002-2018-GRA/CR: Ordenanza Regional que ratifica el Plan Regional de Seguridad Ciudadana Ancash 2018 | 1 | 2018-12-30 to 2018-12-30 |
+| `ordenanza-regional-003-2018-gra-cr` | Ordenanza Regional N° 003-2018-GRA/CR: Ordenanza Regional que aprueba el inicio al Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2019 | 1 | 2018-05-31 to 2018-05-31 |
+| `ordenanza-regional-015-2013-gra-cr` | Ordenanza Regional N° 015-2013-GRA/CR: Aprueban el Programa Integral para el Mejoramiento de Acciones en Nutrición y Estimulación Temprana - PIMANET ANCASH | 1 | 2013-12-14 to 2013-12-14 |
+| `ordenanza-regional-012-2013-gra-cr` | Ordenanza Regional N° 012-2013-GRA/CR: Aprueban la conformación de la Comisión Ambiental de la Región Ancash | 1 | 2013-10-13 to 2013-10-13 |
+| `ordenanza-regional-014-2013-gra-cr` | Ordenanza Regional N° 014-2013-GRA/CR: Declaran de prioridad la implementación del Proceso de Certificación de Estudios de Impacto Ambiental de Proyectos de Inversión Pública en el ambito de la Región Ancash
 
-The build made 98 commits:
+
+.
+
+
+
+. | 1 | 2013-09-10 to 2013-09-10 |
+| `ordenanza-regional-013-2013-gra-cr` | Ordenanza Regional N° 013-2013-GRA/CR: Aprueban conformación del Grupo Técnico Regional de Cambio Climático de la Región Ancash | 1 | 2013-09-10 to 2013-09-10 |
+| `ordenanza-regional-013-2012-gra-cr` | Ordenanza Regional N° 013-2012-GRA/CR: Modifican el Reglamento de Organización y Funciones del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | 1 | 2013-01-13 to 2013-01-13 |
+| `ordenanza-regional-014-2012-gra-cr` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Políticas Regionales de Artesanía del Gobierno Regional de Ancash | 1 | 2013-01-06 to 2013-01-06 |
+| `ordenanza-regional-005-2012-gra-cr` | Ordenanza Regional N° 005-2012-GRA/CR: Aprueban Plan de Desarrollo de Capacidades 2012 -2014 del Gobierno Regional de Ancash | 1 | 2012-09-04 to 2012-09-04 |
+| `ordenanza-regional-011-2012-gra-cr` | Ordenanza Regional N° 011-2012-GRA/CR: Aprueban Cuadro para Asignación de Personal - CAP del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-010-2012-gra-cr` | Ordenanza Regional N° 010-2012-GRA/CR: Aprueban Reglamento de Organización y Funciones - ROF del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-008-2012-gra-cr` | Ordenanza Regional N° 008-2012-GRA/CR: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil en la Región Ancash | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-009-2012-gra-cr` | Ordenanza Regional N° 009-2012-GRA/CR: Aprueban Lineamientos de Política Regional, el Plan Regional de Formación Profesional de Ancash y su Presupuesto | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-007-2012-gra-cr` | Ordenanza Regional N° 007-2012-GRA/CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable de la Región Ancash 2012 -2015 | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-003-2012-region-ancash-cr` | Ordenanza Regional N° 003-2012-REGION-ANCASH/CR: Aprueban el Reglamento de Audiencia Pública Regional del Gobierno Regional de Ancash | 1 | 2012-07-26 to 2012-07-26 |
+| `ordenanza-regional-001-2012-region-ancash-cr` | Ordenanza Regional N° 001-2012-REGION ANCASH/CR: Establecen disposiciones para la prestación del servicio de transporte público regular de personas | 1 | 2012-04-21 to 2012-04-21 |
+| `ordenanza-regional-002-2012-region-ancash-cr` | Ordenanza Regional N° 002-2012-REGION ANCASH/CR: Disponen inicio del proceso del Presupuesto para el Ejercicio Fiscal 2013 y aprueban el Reglamento General para el proceso de Programación del Presupuesto Participativo Ancash 2013 | 1 | 2012-04-21 to 2012-04-21 |
+| `ordenanza-regional-017-2011-region-ancash-cr` | Ordenanza Regional N° 017-2011-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Energía y Minas de Ancash | 1 | 2012-03-15 to 2012-03-15 |
+| `ordenanza-regional-024-2011-region-ancash-cr` | Ordenanza Regional N° 024-2011-REGION ANCASH/CR: Aprueban la creación del Consejo Regional de Ancash de Reparaciones de Ancashj para las Víctimas de la Violencia Política y Promoción de una Cultura de Paz | 1 | 2012-03-15 to 2012-03-15 |
+| `ordenanza-regional-021-2011-region-ancash-cr` | Ordenanza Regional N° 021-2011-REGION ANCASH/CR: Declaran de interés prioritario y de necesidad pública regional la prevención y control de la Tuberculosis, VIH/SIDA | 1 | 2012-03-15 to 2012-03-15 |
+| `ordenanza-regional-018-2011-region-ancash-cr` | Ordenanza Regional N° 018-2011-REGION ANCASH/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones | 1 | 2012-03-15 to 2012-03-15 |
+| `ordenanza-regional-023-2011-region-ancash-cr` | Ordenanza Regional N° 023-2011-REGION ANCASH/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria de Ancash | 1 | 2012-03-15 to 2012-03-15 |
+| `ordenanza-regional-014-2011-region-ancash-cr` | Ordenanza Regional N° 014-2011-REGION ANCASH/CR: Establecen disposiciones para implementar el desarrollo del Programa de Apoyo Alimentario Regional (PAAR) | 1 | 2011-09-29 to 2011-09-29 |
+| `ordenanza-regional-013-2011-region-ancash-cr` | Ordenanza Regional N° 013-2011-REGION ANCASH/CR: Declaran de prioridad e interés regional la reducción de los indicadores de pobreza y pobreza extrema en el ámbito de la Región Ancash | 1 | 2011-09-29 to 2011-09-29 |
+| `ordenanza-regional-008-2011-region-ancash-cr` | Ordenanza Regional N° 008-2011-REGION ANCASH/CR: Declaran a la Región de Ancash como Zona Libre de cultivos Transgénicos y Productos Contaminados | 1 | 2011-09-24 to 2011-09-24 |
+| `ordenanza-regional-006-2011-region-ancash-cr` | Ordenanza Regional N° 006-2011-REGION ANCASH/CR: Institucionalizan la Condecoración de la Mujer Ancashina, denominada Qori Warmi | 1 | 2011-09-08 to 2011-09-08 |
+
+The build made 130 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 98 | first version of an act |
+| 130 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 98 laws in the record.
-- 196 tags.
+- 130 laws in the record.
+- 260 tags.
 
 ## Dates
 
@@ -137,13 +176,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3895c0b9e421578dc31af40a05c551e4d81dfa7c5f74b79182cf09b6ff3363cd` (1458431 bytes).
+- Corpus: sha256 `f93fa693857d4b81f58d86eab610e6895371060f13db39ac4bf662c2f5280194` (1838638 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-98 versions of 98 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

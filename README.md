@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-98 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+130 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -110,6 +110,38 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-011-2013-gra-cr/` | Ordenanza Regional N° 011-2013-GRA/CR: Aprueban actualización del Plan Vial Departamental Participativo Ancash 2013 - 2017 | in force 23 June 2013 |
 | `ordenanza-regional-006-2013-gra-cr/` | Ordenanza Regional N° 006-2013-GRA/CR: Aprueban Reglamento para el Proceso de Presupuesto Participativo para el Ejercicio Fiscal 2014 del Gobierno Regional de A… | in force 12 May 2013 |
 | `ordenanza-regional-004-2013-gra-cr/` | Ordenanza Regional N° 004-2013-GRA/CR: Aprueban Cuadro para Asignación de Personal - CAP de la Dirección Regional Agraria de Ancash | in force 19 April 2013 |
+| `ordenanza-regional-001-2020-gra-cr/` | Ordenanza Regional N° 001-2020-GRA/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Ancash | in force 13 April 2020 |
+| `ordenanza-regional-010-2019-gra-cr/` | Ordenanza Regional N° 010-2019-GRA/CR: Crean el Consejo Regional por los Derechos de las Niñas, Niños y Adolescentes de la Región Áncash | in force 13 December 2019 |
+| `ordenanza-regional-011-2019-gra-cr/` | Ordenanza Regional N° 011-2019-GRA/CR: Aprueban el “Plan Regional de Integridad y Lucha Contra la Corrupción 2019 - 2021“ | in force 30 November 2019 |
+| `ordenanza-regional-007-2019-gra-cr/` | Ordenanza Regional N° 007-2019-GRA/CR: Aprueban el Plan Regional de Acción contra Trata de Personas y Tráfico Ilícito de Migrantes de la Región Ancash 2019 - 20… | in force 23 November 2019 |
+| `ordenanza-regional-003-2019-gra-cr/` | Ordenanza Regional N° 003-2019-GRA/CR: Ratifican el Plan Regional de Seguridad Ciudadana - 2019 | in force 2 October 2019 |
+| `ordenanza-regional-010-2018-gra-cr/` | Ordenanza Regional N° 010-2018-GRA/CR: Crean el Consejo Regional de Concertación Agraria para la Reactivación y el Desarrollo del Sector Agrario de la Región Án… | in force 5 January 2019 |
+| `ordenanza-regional-002-2018-gra-cr/` | Ordenanza Regional N° 002-2018-GRA/CR: Ordenanza Regional que ratifica el Plan Regional de Seguridad Ciudadana Ancash 2018 | in force 30 December 2018 |
+| `ordenanza-regional-003-2018-gra-cr/` | Ordenanza Regional N° 003-2018-GRA/CR: Ordenanza Regional que aprueba el inicio al Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2019 | in force 31 May 2018 |
+| `ordenanza-regional-015-2013-gra-cr/` | Ordenanza Regional N° 015-2013-GRA/CR: Aprueban el Programa Integral para el Mejoramiento de Acciones en Nutrición y Estimulación Temprana - PIMANET ANCASH | in force 14 December 2013 |
+| `ordenanza-regional-012-2013-gra-cr/` | Ordenanza Regional N° 012-2013-GRA/CR: Aprueban la conformación de la Comisión Ambiental de la Región Ancash | in force 13 October 2013 |
+| `ordenanza-regional-014-2013-gra-cr/` | Ordenanza Regional N° 014-2013-GRA/CR: Declaran de prioridad la implementación del Proceso de Certificación de Estudios de Impacto Ambiental de Proyectos de Inv… | in force 10 September 2013 |
+| `ordenanza-regional-013-2013-gra-cr/` | Ordenanza Regional N° 013-2013-GRA/CR: Aprueban conformación del Grupo Técnico Regional de Cambio Climático de la Región Ancash | in force 10 September 2013 |
+| `ordenanza-regional-013-2012-gra-cr/` | Ordenanza Regional N° 013-2012-GRA/CR: Modifican el Reglamento de Organización y Funciones del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | in force 13 January 2013 |
+| `ordenanza-regional-014-2012-gra-cr/` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Políticas Regionales de Artesanía del Gobierno Regional de Ancash | in force 6 January 2013 |
+| `ordenanza-regional-005-2012-gra-cr/` | Ordenanza Regional N° 005-2012-GRA/CR: Aprueban Plan de Desarrollo de Capacidades 2012 -2014 del Gobierno Regional de Ancash | in force 4 September 2012 |
+| `ordenanza-regional-011-2012-gra-cr/` | Ordenanza Regional N° 011-2012-GRA/CR: Aprueban Cuadro para Asignación de Personal - CAP del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | in force 10 August 2012 |
+| `ordenanza-regional-010-2012-gra-cr/` | Ordenanza Regional N° 010-2012-GRA/CR: Aprueban Reglamento de Organización y Funciones - ROF del Terminal Portuario de Chimbote del Gobierno Regional de Ancash | in force 10 August 2012 |
+| `ordenanza-regional-008-2012-gra-cr/` | Ordenanza Regional N° 008-2012-GRA/CR: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil en la Región Ancash | in force 10 August 2012 |
+| `ordenanza-regional-009-2012-gra-cr/` | Ordenanza Regional N° 009-2012-GRA/CR: Aprueban Lineamientos de Política Regional, el Plan Regional de Formación Profesional de Ancash y su Presupuesto | in force 10 August 2012 |
+| `ordenanza-regional-007-2012-gra-cr/` | Ordenanza Regional N° 007-2012-GRA/CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable de la Región Ancash 2012 -2015 | in force 10 August 2012 |
+| `ordenanza-regional-003-2012-region-ancash-cr/` | Ordenanza Regional N° 003-2012-REGION-ANCASH/CR: Aprueban el Reglamento de Audiencia Pública Regional del Gobierno Regional de Ancash | in force 26 July 2012 |
+| `ordenanza-regional-001-2012-region-ancash-cr/` | Ordenanza Regional N° 001-2012-REGION ANCASH/CR: Establecen disposiciones para la prestación del servicio de transporte público regular de personas | in force 21 April 2012 |
+| `ordenanza-regional-002-2012-region-ancash-cr/` | Ordenanza Regional N° 002-2012-REGION ANCASH/CR: Disponen inicio del proceso del Presupuesto para el Ejercicio Fiscal 2013 y aprueban el Reglamento General para… | in force 21 April 2012 |
+| `ordenanza-regional-017-2011-region-ancash-cr/` | Ordenanza Regional N° 017-2011-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Energía y Minas de Ancash | in force 15 March 2012 |
+| `ordenanza-regional-024-2011-region-ancash-cr/` | Ordenanza Regional N° 024-2011-REGION ANCASH/CR: Aprueban la creación del Consejo Regional de Ancash de Reparaciones de Ancashj para las Víctimas de la Violenci… | in force 15 March 2012 |
+| `ordenanza-regional-021-2011-region-ancash-cr/` | Ordenanza Regional N° 021-2011-REGION ANCASH/CR: Declaran de interés prioritario y de necesidad pública regional la prevención y control de la Tuberculosis, VIH… | in force 15 March 2012 |
+| `ordenanza-regional-018-2011-region-ancash-cr/` | Ordenanza Regional N° 018-2011-REGION ANCASH/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones | in force 15 March 2012 |
+| `ordenanza-regional-023-2011-region-ancash-cr/` | Ordenanza Regional N° 023-2011-REGION ANCASH/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria de Ancash | in force 15 March 2012 |
+| `ordenanza-regional-014-2011-region-ancash-cr/` | Ordenanza Regional N° 014-2011-REGION ANCASH/CR: Establecen disposiciones para implementar el desarrollo del Programa de Apoyo Alimentario Regional (PAAR) | in force 29 September 2011 |
+| `ordenanza-regional-013-2011-region-ancash-cr/` | Ordenanza Regional N° 013-2011-REGION ANCASH/CR: Declaran de prioridad e interés regional la reducción de los indicadores de pobreza y pobreza extrema en el ámb… | in force 29 September 2011 |
+| `ordenanza-regional-008-2011-region-ancash-cr/` | Ordenanza Regional N° 008-2011-REGION ANCASH/CR: Declaran a la Región de Ancash como Zona Libre de cultivos Transgénicos y Productos Contaminados | in force 24 September 2011 |
+| `ordenanza-regional-006-2011-region-ancash-cr/` | Ordenanza Regional N° 006-2011-REGION ANCASH/CR: Institucionalizan la Condecoración de la Mujer Ancashina, denominada Qori Warmi | in force 8 September 2011 |
 
 ## Source
 
