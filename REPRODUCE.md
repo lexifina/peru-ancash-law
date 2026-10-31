@@ -151,20 +151,49 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-013-2011-region-ancash-cr` | Ordenanza Regional N° 013-2011-REGION ANCASH/CR: Declaran de prioridad e interés regional la reducción de los indicadores de pobreza y pobreza extrema en el ámbito de la Región Ancash | 1 | 2011-09-29 to 2011-09-29 |
 | `ordenanza-regional-008-2011-region-ancash-cr` | Ordenanza Regional N° 008-2011-REGION ANCASH/CR: Declaran a la Región de Ancash como Zona Libre de cultivos Transgénicos y Productos Contaminados | 1 | 2011-09-24 to 2011-09-24 |
 | `ordenanza-regional-006-2011-region-ancash-cr` | Ordenanza Regional N° 006-2011-REGION ANCASH/CR: Institucionalizan la Condecoración de la Mujer Ancashina, denominada Qori Warmi | 1 | 2011-09-08 to 2011-09-08 |
+| `ordenanza-regional-007-2011-region-ancash-cr` | Ordenanza Regional N° 007-2011-REGION ANCASH/CR: Declaran de interés y prioridad regional la utilización del lenguaje sensible al género, denominado también lenguaje inclusivo, en el ámbito de la Región Ancash | 1 | 2011-08-22 to 2011-08-22 |
+| `ordenanza-regional-002-2011-region-ancash-cr` | Ordenanza Regional N° 002-2011-REGION ANCASH/CR: Aprueban Reglamento para la eleccion de Representantes de las Organizaciones de la Sociedad Civil ante el Consejo de Coordinación Regional de Ancash | 1 | 2011-07-31 to 2011-07-31 |
+| `ordenanza-regional-001-2011-region-ancash-cr` | Ordenanza Regional N° 001-2011-REGION ANCASH/CR: Establecen disposiciones para la realización del Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2012 | 1 | 2011-07-31 to 2011-07-31 |
+| `ordenanza-regional-004-2011-region-ancash-cr` | Ordenanza Regional N° 004-2011-REGION ANCASH/CR: Incorporan dentro de la Estructura Orgánica del Gobierno Regional de Ancash a la Autoridad Portuaria Regional de Ancash | 1 | 2011-05-22 to 2011-05-22 |
+| `ordenanza-regional-003-2011-region-ancash-cr` | Ordenanza Regional N° 003-2011-REGION ANCASH/CR: Autorizan al Ejecutivo Regional llevar a cabo convocatoria de concurso público para seleccionar operador portuario para el Terminal Portuario de Chimbote | 1 | 2011-05-22 to 2011-05-22 |
+| `ordenanza-regional-005-2011-region-ancash-cr` | Ordenanza Regional N° 005-2011-REGION ANCASH/CR: Modifican el Artículo 7° de la Ordenanza Regional N° 003-2010 REGION ANCASH/CR, sobre suspensión de incorporación de nuevas Embarcaciones Pesqueras al Registro de Embarcaciones Pesqueras Artesanales | 1 | 2011-05-22 to 2011-05-22 |
+| `ordenanza-regional-05-2010-region-ancash-cr` | Ordenanza Regional N° 05-2010-REGION ANCASH/CR.: Reconocen a la Coordinadora Regional Multisectorial de Salud de Ancash - COREMUSA, como mecanismo de coordinación  para cooperación del Estado, Sociedad Civil y organismos de personas afectadas por VIH - Sida, Tuberculosis y Malaria | 1 | 2011-02-21 to 2011-02-21 |
+| `ordenanza-regional-04-2010-region-ancash-cr` | Ordenanza Regional N° 04-2010-REGION ANCASH/CR.: Declaran de interés regional la formulación de políticas para la prevención y erradicación de la violencia familiar y sexual de las mujeres, niñas y adolescentes en la Región Ancash | 1 | 2011-02-21 to 2011-02-21 |
+| `ordenanza-regional-001-2010-region-ancash-cr` | Ordenanza Regional N° 001-2010-REGION ANCASH/CR: Aprueban Reglamento General para el Proceso de Programación del Presupuesto Participativo Ancash 2011 | 1 | 2010-02-21 to 2010-02-21 |
+| `ordenanza-regional-028-2009-region-ancash-cr` | Ordenanza Regional N° 028-2009-REGIÓN ANCASH/CR: Aprueban "Plan Regional Articulado de la Estrategia Regional Creciendo Contigo 2008 - 2015 de la Región Ancash" | 1 | 2010-01-30 to 2010-01-30 |
+| `ordenanza-regional-026-2009-region-ancash-cr` | Ordenanza Regional N° 026-2009-REGION ANCASH/CR: Declaran de interés regional la protección y conservación ambiental de los Rodales de Quenuales en la Región Ancash | 1 | 2009-12-08 to 2009-12-08 |
+| `ordenanza-regional-029-2009-region-ancash-cr` | Ordenanza Regional N° 029-2009-REGION ANCASH/CR: Declaran de interés regional la Zonificación Ecológica Económica y el Ordenamiento Territorial de la Microcuenca del Río de Yaután | 1 | 2009-12-04 to 2009-12-04 |
+| `ordenanza-regional-018-2009-region-ancash-cr` | Ordenanza Regional N° 018-2009-REGION ANCASH/CR: Autorizan a las Asociaciones de Fondos Contra Accidentes de Tránsito de la Región Ancash para dictar cursos de capacitación de seguridad vial a transportistas de servicio público de transporte | 1 | 2009-12-04 to 2009-12-04 |
+| `ordenanza-regional-022-2009-region-ancash-cr` | Ordenanza Regional N° 022-2009-REGION ANCASH/CR: Aprueban el Documento Técnico denominado Proyecto Educativo Regional de Ancash - PER Ancash | 1 | 2009-11-30 to 2009-11-30 |
+| `ordenanza-regional-020-2009-region-ancash-cr` | Ordenanza Regional N° 020-2009-REGIÓN ANCASH/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Educación de Ancash | 1 | 2009-11-30 to 2009-11-30 |
+| `ordenanza-regional-027-2009-region-ancash-cr` | Ordenanza Regional N° 027-2009-REGION ANCASH/CR: Establecen el ejercicio profesional del Enfermero a nivel público y privado así como la acreditación de la habilitación profesional otorgada por el Colegio de Enfermeros (as) del Perú | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-024-2009-region-ancash-cr` | Ordenanza Regional N° 024-2009-REGION ANCASH/CR: Aprueban Plan Regional de Desarrollo Forestal 2008 - 2021 | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-023-2009-region-ancash-cr` | Ordenanza Regional N° 023-2009-REGION ANCASH/CR: Declaran como prioridad Regional la promoción del Derecho a la Salud y a la Vida, mediante acciones de prevención de las ITS y VIH/SIDA, en los/las adolescentes en la Región Ancash | 1 | 2009-11-15 to 2009-11-15 |
+| `ordenanza-regional-004-2009-region-ancash-cr` | Ordenanza Regional N° 004-2009-REGIÓN ANCASH/CR: Aprueban el CAP de la Unidad de Gestión Educativa Local de Huaraz | 1 | 2009-09-16 to 2009-09-16 |
+| `ordenanza-regional-008-2008-region-ancash-cr` | Ordenanza Regional N° 008-2008-REGION ANCASH/CR: Reconocen a Guías Pioneros en Turismo Convencional y Trekking en la Región Ancash | 1 | 2009-09-05 to 2009-09-05 |
+| `ordenanza-regional-014-2009-region-ancash-cr` | Ordenanza Regional N° 014-2009-REGION ANCASH/CR.: Incorporan Disposición Transitoria al Reglamento para la Elección de los Representantes de las Organizaciones de la Sociedad Civil ante el Consejo de Coordinación Regional | 1 | 2009-08-29 to 2009-08-29 |
+| `ordenanza-regional-015-2009-region-ancash-cr` | Ordenanza Regional N° 015-2009-REGIÓN ANCASH/CR: Declaran a la Cuenca del Río Casma como "Cuenca Piloto" para la Gestión del Desarrollo Sostenible de su ámbito | 1 | 2009-08-28 to 2009-08-28 |
+| `ordenanza-regional-016-2009-region-ancash-cr` | Ordenanza Regional N° 016-2009-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal  - CAP de la Autoridad Portuaria Regional de Ancash - APR | 1 | 2009-08-16 to 2009-08-16 |
+| `ordenanza-regional-010-2009-region-ancash-cr` | Ordenanza Regional N° 010-2009-REGION ANCASH/CR: Aprueban Plan Regional de Igualdad de Oportunidades para las Personas con Discapacidad 2008-2012 | 1 | 2009-07-07 to 2009-07-07 |
+| `ordenanza-regional-011-2009-region-ancash-cr` | Ordenanza Regional N° 011-2009-REGION-ANCASH/CR: Aprueban Plan Estratégico Institucional 2008 - 2011 del Gobierno Regional de Ancash | 1 | 2009-07-07 to 2009-07-07 |
+| `ordenanza-regional-006-2009-region-ancash-cr` | Ordenanza Regional N° 006-2009-REGION ANCASH/CR: Disponen el inicio del Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2010 y aprueban reglamento | 1 | 2009-06-05 to 2009-06-05 |
+| `ordenanza-regional-005-2009-region-ancash-cr` | Ordenanza Regional N° 005-2009-REGION ANCASH/CR: Aprueban Acta de Acuerdo de Límites Territoriales entre el Gobierno Regional Ancash y el Gobierno Regional Lima (Sector Punta La Litera - Cerro Pacayhuaín) | 1 | 2009-06-05 to 2009-06-05 |
+| `ordenanza-regional-008-2009-region-ancash-cr` | Ordenanza Regional N° 008-2009-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal - CAP de la Autoridad Portuaria Regional de Ancash - APR | 1 | 2009-05-26 to 2009-05-26 |
+| `ordenanza-regional-015-2008-region-ancash-cr` | Ordenanza Regional N° 015-2008-REGION ANCASH/CR: Aprueban Plan Regional de Acción por la Infancia y Adolescencia para el período 2008 - 2015 | 1 | 2009-04-10 to 2009-04-10 |
 
-The build made 130 commits:
+The build made 159 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 130 | first version of an act |
+| 159 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 130 laws in the record.
-- 260 tags.
+- 159 laws in the record.
+- 318 tags.
 
 ## Dates
 
@@ -176,7 +205,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f93fa693857d4b81f58d86eab610e6895371060f13db39ac4bf662c2f5280194` (1838638 bytes).
+- Corpus: sha256 `12e3aca9205aaee619110a32e330db0ba8c9c35ec58d0e469ee5533ac77373cf` (2048325 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

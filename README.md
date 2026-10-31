@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-130 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+159 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -142,6 +142,35 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-013-2011-region-ancash-cr/` | Ordenanza Regional N° 013-2011-REGION ANCASH/CR: Declaran de prioridad e interés regional la reducción de los indicadores de pobreza y pobreza extrema en el ámb… | in force 29 September 2011 |
 | `ordenanza-regional-008-2011-region-ancash-cr/` | Ordenanza Regional N° 008-2011-REGION ANCASH/CR: Declaran a la Región de Ancash como Zona Libre de cultivos Transgénicos y Productos Contaminados | in force 24 September 2011 |
 | `ordenanza-regional-006-2011-region-ancash-cr/` | Ordenanza Regional N° 006-2011-REGION ANCASH/CR: Institucionalizan la Condecoración de la Mujer Ancashina, denominada Qori Warmi | in force 8 September 2011 |
+| `ordenanza-regional-007-2011-region-ancash-cr/` | Ordenanza Regional N° 007-2011-REGION ANCASH/CR: Declaran de interés y prioridad regional la utilización del lenguaje sensible al género, denominado también len… | in force 22 August 2011 |
+| `ordenanza-regional-002-2011-region-ancash-cr/` | Ordenanza Regional N° 002-2011-REGION ANCASH/CR: Aprueban Reglamento para la eleccion de Representantes de las Organizaciones de la Sociedad Civil ante el Conse… | in force 31 July 2011 |
+| `ordenanza-regional-001-2011-region-ancash-cr/` | Ordenanza Regional N° 001-2011-REGION ANCASH/CR: Establecen disposiciones para la realización del Proceso del Presupuesto Participativo para el Ejercicio Fiscal… | in force 31 July 2011 |
+| `ordenanza-regional-004-2011-region-ancash-cr/` | Ordenanza Regional N° 004-2011-REGION ANCASH/CR: Incorporan dentro de la Estructura Orgánica del Gobierno Regional de Ancash a la Autoridad Portuaria Regional d… | in force 22 May 2011 |
+| `ordenanza-regional-003-2011-region-ancash-cr/` | Ordenanza Regional N° 003-2011-REGION ANCASH/CR: Autorizan al Ejecutivo Regional llevar a cabo convocatoria de concurso público para seleccionar operador portua… | in force 22 May 2011 |
+| `ordenanza-regional-005-2011-region-ancash-cr/` | Ordenanza Regional N° 005-2011-REGION ANCASH/CR: Modifican el Artículo 7° de la Ordenanza Regional N° 003-2010 REGION ANCASH/CR, sobre suspensión de incorporaci… | in force 22 May 2011 |
+| `ordenanza-regional-05-2010-region-ancash-cr/` | Ordenanza Regional N° 05-2010-REGION ANCASH/CR.: Reconocen a la Coordinadora Regional Multisectorial de Salud de Ancash - COREMUSA, como mecanismo de coordinaci… | in force 21 February 2011 |
+| `ordenanza-regional-04-2010-region-ancash-cr/` | Ordenanza Regional N° 04-2010-REGION ANCASH/CR.: Declaran de interés regional la formulación de políticas para la prevención y erradicación de la violencia fami… | in force 21 February 2011 |
+| `ordenanza-regional-001-2010-region-ancash-cr/` | Ordenanza Regional N° 001-2010-REGION ANCASH/CR: Aprueban Reglamento General para el Proceso de Programación del Presupuesto Participativo Ancash 2011 | in force 21 February 2010 |
+| `ordenanza-regional-028-2009-region-ancash-cr/` | Ordenanza Regional N° 028-2009-REGIÓN ANCASH/CR: Aprueban "Plan Regional Articulado de la Estrategia Regional Creciendo Contigo 2008 - 2015 de la Región Ancash" | in force 30 January 2010 |
+| `ordenanza-regional-026-2009-region-ancash-cr/` | Ordenanza Regional N° 026-2009-REGION ANCASH/CR: Declaran de interés regional la protección y conservación ambiental de los Rodales de Quenuales en la Región An… | in force 8 December 2009 |
+| `ordenanza-regional-029-2009-region-ancash-cr/` | Ordenanza Regional N° 029-2009-REGION ANCASH/CR: Declaran de interés regional la Zonificación Ecológica Económica y el Ordenamiento Territorial de la Microcuenc… | in force 4 December 2009 |
+| `ordenanza-regional-018-2009-region-ancash-cr/` | Ordenanza Regional N° 018-2009-REGION ANCASH/CR: Autorizan a las Asociaciones de Fondos Contra Accidentes de Tránsito de la Región Ancash para dictar cursos de … | in force 4 December 2009 |
+| `ordenanza-regional-022-2009-region-ancash-cr/` | Ordenanza Regional N° 022-2009-REGION ANCASH/CR: Aprueban el Documento Técnico denominado Proyecto Educativo Regional de Ancash - PER Ancash | in force 30 November 2009 |
+| `ordenanza-regional-020-2009-region-ancash-cr/` | Ordenanza Regional N° 020-2009-REGIÓN ANCASH/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Educación de Ancash | in force 30 November 2009 |
+| `ordenanza-regional-027-2009-region-ancash-cr/` | Ordenanza Regional N° 027-2009-REGION ANCASH/CR: Establecen el ejercicio profesional del Enfermero a nivel público y privado así como la acreditación de la habi… | in force 29 November 2009 |
+| `ordenanza-regional-024-2009-region-ancash-cr/` | Ordenanza Regional N° 024-2009-REGION ANCASH/CR: Aprueban Plan Regional de Desarrollo Forestal 2008 - 2021 | in force 29 November 2009 |
+| `ordenanza-regional-023-2009-region-ancash-cr/` | Ordenanza Regional N° 023-2009-REGION ANCASH/CR: Declaran como prioridad Regional la promoción del Derecho a la Salud y a la Vida, mediante acciones de prevenci… | in force 15 November 2009 |
+| `ordenanza-regional-004-2009-region-ancash-cr/` | Ordenanza Regional N° 004-2009-REGIÓN ANCASH/CR: Aprueban el CAP de la Unidad de Gestión Educativa Local de Huaraz | in force 16 September 2009 |
+| `ordenanza-regional-008-2008-region-ancash-cr/` | Ordenanza Regional N° 008-2008-REGION ANCASH/CR: Reconocen a Guías Pioneros en Turismo Convencional y Trekking en la Región Ancash | in force 5 September 2009 |
+| `ordenanza-regional-014-2009-region-ancash-cr/` | Ordenanza Regional N° 014-2009-REGION ANCASH/CR.: Incorporan Disposición Transitoria al Reglamento para la Elección de los Representantes de las Organizaciones … | in force 29 August 2009 |
+| `ordenanza-regional-015-2009-region-ancash-cr/` | Ordenanza Regional N° 015-2009-REGIÓN ANCASH/CR: Declaran a la Cuenca del Río Casma como "Cuenca Piloto" para la Gestión del Desarrollo Sostenible de su ámbito | in force 28 August 2009 |
+| `ordenanza-regional-016-2009-region-ancash-cr/` | Ordenanza Regional N° 016-2009-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal  - CAP de la Autoridad Portuaria Regional de Ancash - APR | in force 16 August 2009 |
+| `ordenanza-regional-010-2009-region-ancash-cr/` | Ordenanza Regional N° 010-2009-REGION ANCASH/CR: Aprueban Plan Regional de Igualdad de Oportunidades para las Personas con Discapacidad 2008-2012 | in force 7 July 2009 |
+| `ordenanza-regional-011-2009-region-ancash-cr/` | Ordenanza Regional N° 011-2009-REGION-ANCASH/CR: Aprueban Plan Estratégico Institucional 2008 - 2011 del Gobierno Regional de Ancash | in force 7 July 2009 |
+| `ordenanza-regional-006-2009-region-ancash-cr/` | Ordenanza Regional N° 006-2009-REGION ANCASH/CR: Disponen el inicio del Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2010 y aprueban reglament… | in force 5 June 2009 |
+| `ordenanza-regional-005-2009-region-ancash-cr/` | Ordenanza Regional N° 005-2009-REGION ANCASH/CR: Aprueban Acta de Acuerdo de Límites Territoriales entre el Gobierno Regional Ancash y el Gobierno Regional Lima… | in force 5 June 2009 |
+| `ordenanza-regional-008-2009-region-ancash-cr/` | Ordenanza Regional N° 008-2009-REGION ANCASH/CR: Aprueban Cuadro para Asignación de Personal - CAP de la Autoridad Portuaria Regional de Ancash - APR | in force 26 May 2009 |
+| `ordenanza-regional-015-2008-region-ancash-cr/` | Ordenanza Regional N° 015-2008-REGION ANCASH/CR: Aprueban Plan Regional de Acción por la Infancia y Adolescencia para el período 2008 - 2015 | in force 10 April 2009 |
 
 ## Source
 
